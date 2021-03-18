@@ -1,0 +1,17 @@
+{ "value":[
+
+{"crm": "https://us.api.flow.microsoft.com"},
+{"crm5":"https://asia.api.flow.microsoft.com"},
+{"crm7":"https://japan.api.powerapps.com"}, 
+{"crm17":"https://switzerland.api.flow.microsoft.com"}, 
+{"crm6":"https://australia.api.flow.microsoft.com"},
+{"crm3":"https://canada.api.flow.microsoft.com"},
+{"crm11":"https://unitedkingdom.api.flow.microsoft.com"},
+{"crm2":"https://southamerica.api.flow.microsoft.com"},
+{"crm12":"https://france.api.flow.microsoft.com"},
+{"crm4":"https://emea.api.flow.microsoft.com"},
+{"crm14":"https://emea.api.flow.microsoft.com"},
+{"crm15":"https://emea.api.flow.microsoft.com"},
+{"crm16":"https://emea.api.flow.microsoft.com"}
+
+]}
