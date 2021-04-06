@@ -5,7 +5,7 @@ A xrmtoolbox plugin for managing **cloud** powerautomates.<br/>
 * List crm flows
 * List My Flows (https://flow.microsoft.com)
 * List run histories
-* List dependencies
+* List flow dependencies
 * Export Dependencies
 * Turn On/Off
 * Share flows (crm users)
