@@ -28,7 +28,7 @@ Once the installion is done, you will see this plugin as follows:
 Since this plugin connects to CE webapi so by default it requires **OAuth or Certifcate** type connections in xrmtoolbox.
 <br/>For example regarding available OAuth connections in xrmtools are mentioned below:
 
-![xrmtoolbox connections](https://github.com/yesadahmed/xrmtoolboxAddins/blob/main/JsonToCSharp/images/Conn1.png)
+![xrmtoolbox connections](https://raw.githubusercontent.com/yesadahmed/PowerAutomateManagerDocs/main/readme/pane.PNG)
 
 Some examples are as follows.
 
