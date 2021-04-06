@@ -41,6 +41,14 @@ Url=https://contoso:8080/Test;AppId=<GUID>;RedirectUri=app://<GUID>; LoginPrompt
  
 ## Application Explanation
  
+**Solution flows**
+ 
+ 
+ **My flows**
+ * Register your azure client application first, [how to make client application](#register-client-application-1)
+ * After creating now configure your client application  ![configure](https://raw.githubusercontent.com/yesadahmed/PowerAutomateManagerDocs/main/readme/setclientapp.png)
+ 
+ 
  
  
 ## Examples
