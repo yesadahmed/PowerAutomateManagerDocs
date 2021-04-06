@@ -39,10 +39,18 @@ Some examples are as follows.
  AuthType=OAuth;Username=jsmith@contoso.onmicrosoft.com; Password=passcode;
 Url=https://contoso:8080/Test;AppId=<GUID>;RedirectUri=app://<GUID>; LoginPrompt=Never
  
- ## Application Explanation
+## Application Explanation
  
- ## Examples
+ 
+ 
+## Examples
    
- ## Register client application
+   
+   
+   
+   
+   
+   
+## Register client application
   
 
