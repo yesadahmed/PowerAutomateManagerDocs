@@ -45,8 +45,10 @@ Url=https://contoso:8080/Test;AppId=<GUID>;RedirectUri=app://<GUID>; LoginPrompt
  
  
  **My flows**
- * Register your azure client application first, [how to make client application](#register-client-application-1)
- * After creating now configure your client application  ![configure](https://raw.githubusercontent.com/yesadahmed/PowerAutomateManagerDocs/main/readme/setclientapp.png)
+ * Create your azure client application first, [how to make client application](#register-client-application-1).
+ * After creating now register your application  in plugin ![configure](https://raw.githubusercontent.com/yesadahmed/PowerAutomateManagerDocs/main/readme/setclientapp.png).
+ * After successful registration you will the login prompt will appear and after succeful login you will receive bearer token.
+ Here it important you must grant admin permission for the flow scopes mentioned above during client application creation.
  
  
  
