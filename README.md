@@ -1,6 +1,16 @@
 # PowerAutomateManager
 A xrmtoolbox plugin for managing **cloud** powerautomates.<br/>
 
+Featuers:
+* List crm flows
+* List My Flows (https://flow.microsoft.com)
+* List run histories
+* List dependencies
+* Export Dependencies
+* Turn On/Off
+* Share flows (crm users)
+* Delete flows.
+
 This tool works only with only **oauth** and **certificates** types xrmtoolbox's connection.Cancel changes
 <br/>For how to connect and working examples please see below.<br/>
 # [Go to Conections](#how-to-connect-in-xrmtoolbox-connection-types)<br/>
