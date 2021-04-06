@@ -9,7 +9,7 @@ Featuers:
 * Export Dependencies
 * Turn On/Off
 * Share flows (crm users)
-* Delete flows
+* Delete flows*
 <br/>
 This tool works only with only **oauth** and **certificates** types xrmtoolbox's connection.
 <br/>For how to connect and working examples please see below.<br/>
