@@ -14,6 +14,7 @@ A xrmtoolbox plugin for managing **cloud** powerautomates.<br/>
 This tool works only with only **oauth** and **certificates** types xrmtoolbox's connection.
 <br/>For how to connect and working examples please see below.<br/>
 # [Go to Conections](#how-to-connect-in-xrmtoolbox-connection-types)<br/>
+# [Video Help](#application-explanation)<br/>
 # [Go to Application](#application-explanation)<br/>
 # [Register client application](#register-client-application-1)<br/>
 # [Go to Examples](#examples)<br/>
@@ -46,10 +47,14 @@ Url=https://contoso:8080/Test;AppId=<GUID>;RedirectUri=app://<GUID>; LoginPrompt
  
  **My flows**
  * Create your azure client application first, [how to make client application](#register-client-application-1).
- * After creating now register your application  in plugin ![configure](https://raw.githubusercontent.com/yesadahmed/PowerAutomateManagerDocs/main/readme/setclientapp.png).
- * After successful registration you will the login prompt will appear and after succeful login you will receive bearer token.
- Here it important you must grant admin permission for the flow scopes mentioned above during client application creation.
- 
+ * After creating you r application in azure, you need to click the blue link "configure your application" on plugin ![configure](https://raw.githubusercontent.com/yesadahmed/PowerAutomateManagerDocs/main/readme/setclientapp.png).
+ * After successful registration you will see the login prompt will appear when you click the My flows buttonto get access all underneath featuers.
+ * The application also cache the token once it is generated so during a session user do not need to login again and again.
+ **Here it important that you must grant admin consent for the scopes you added for flow service during the client application creation in above step.
+furhtermore to avoid errors it much better to use the same user whom you have granted admin consent**.
+
+My flow <br/>
+![my flows](https://raw.githubusercontent.com/yesadahmed/PowerAutomateManagerDocs/main/readme/myflows.png)
  
  
  
