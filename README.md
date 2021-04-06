@@ -16,7 +16,7 @@ This tool works only with only **oauth** and **certificates** types xrmtoolbox's
 # [Go to Conections](#how-to-connect-in-xrmtoolbox-connection-types)<br/>
 # [Go to Application](#application-explanation)<br/>
 # [Go to Examples](#examples)<br/>
-# [Once created](#created)<br/>
+# [Register client application](#Register client application)<br/>
 
 ## How to Connect in xrmtoolbox (connection Types)
 Once you have the xrmtoolbox you need to install this plugin form Tool Library as shown below.<br/>
@@ -38,6 +38,8 @@ Some examples are as follows.
  AuthType=OAuth;Username=jsmith@contoso.onmicrosoft.com; Password=passcode;
 Url=https://contoso:8080/Test;AppId=<GUID>;RedirectUri=app://<GUID>; LoginPrompt=Never
  
+ ## Application Explanation
  
+ ## Register client application
   
   
