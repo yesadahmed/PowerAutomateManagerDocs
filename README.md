@@ -48,14 +48,15 @@ Url=https://contoso:8080/Test;AppId=<GUID>;RedirectUri=app://<GUID>; LoginPrompt
  **My flows**
  * Create your azure client application first, [how to make client application](#register-client-application-1).
  * After creating you r application in azure, you need to click the blue link "configure your application" on plugin ![configure](https://raw.githubusercontent.com/yesadahmed/PowerAutomateManagerDocs/main/readme/setclientapp.png).
- * After successful registration you will see the login prompt will appear when you click the My flows buttonto get access all underneath featuers.
+ * After successful registration you will see the login prompt will appear when you click the My flows button to get access all underneath featuers.
  * The application also cache the token once it is generated so during a session user do not need to login again and again.
- **Here it important that you must grant admin consent for the scopes you added for flow service during the client application creation in above step.
-furhtermore to avoid errors it much better to use the same user whom you have granted admin consent**.
+ * Here it important that you must grant admin consent for the scopes you added for flow service during the client application creation in above step,
+  Furhtermore to avoid errors it much better to use the same user whom you have granted admin consent.
 
-My flow <br/>
+**My flow** <br/>
 ![my flows](https://raw.githubusercontent.com/yesadahmed/PowerAutomateManagerDocs/main/readme/myflows.png)
  
+ **Run History**
  
  
 ## Examples
