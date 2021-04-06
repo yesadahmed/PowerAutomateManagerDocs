@@ -11,7 +11,7 @@ A xrmtoolbox plugin for managing **cloud** powerautomates.<br/>
 * Share flows (crm users)
 * Delete flows.
 
-This tool works only with only **oauth** and **certificates** types xrmtoolbox's connection.Cancel changes
+This tool works only with only **oauth** and **certificates** types xrmtoolbox's connection.
 <br/>For how to connect and working examples please see below.<br/>
 # [Go to Conections](#how-to-connect-in-xrmtoolbox-connection-types)<br/>
 # [Go to Application](#application-explanation)<br/>
@@ -37,5 +37,7 @@ Some examples are as follows.
 ![xrmtoolbox connections](https://github.com/yesadahmed/xrmtoolboxAddins/blob/main/JsonToCSharp/images/conneciont.PNG)
  AuthType=OAuth;Username=jsmith@contoso.onmicrosoft.com; Password=passcode;
 Url=https://contoso:8080/Test;AppId=<GUID>;RedirectUri=app://<GUID>; LoginPrompt=Never
+ 
+ 
   
   
