@@ -43,7 +43,7 @@ Url=https://contoso:8080/Test;AppId=<GUID>;RedirectUri=app://<GUID>; LoginPrompt
 ## Application Explanation
  
 **Solution flows**
- 
+ ![solution flows](https://raw.githubusercontent.com/yesadahmed/PowerAutomateManagerDocs/main/readme/solutionflows.png)
  
  **My flows**
  * Create your azure client application first, [how to make client application](#register-client-application-1).
@@ -57,8 +57,13 @@ Url=https://contoso:8080/Test;AppId=<GUID>;RedirectUri=app://<GUID>; LoginPrompt
 ![my flows](https://raw.githubusercontent.com/yesadahmed/PowerAutomateManagerDocs/main/readme/myflows.png)
  
  **Run History**
+ ![flows history](https://raw.githubusercontent.com/yesadahmed/PowerAutomateManagerDocs/main/readme/history.png)
  
- 
+ **Flow dependencies**
+  ![flows dependencies](https://raw.githubusercontent.com/yesadahmed/PowerAutomateManagerDocs/main/readme/dependencies.png)
+  
+  
+  
 ## Examples
    
    
