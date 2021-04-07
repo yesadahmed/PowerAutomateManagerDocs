@@ -17,7 +17,7 @@ This tool works only with only **oauth** and **certificates** types xrmtoolbox's
 # [Video Help](#application-explanation)<br/>
 # [Go to Application (examples)](#application-explanation)<br/>
 # [Register client application](#register-client-application-1)<br/>
-# [Notes](#examples)<br/>
+# [Notes](#notes)<br/>
 
 
 ## How to Connect in xrmtoolbox (connection Types)
