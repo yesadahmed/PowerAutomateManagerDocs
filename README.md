@@ -62,8 +62,10 @@ Url=https://contoso:8080/Test;AppId=<GUID>;RedirectUri=app://<GUID>; LoginPrompt
  **Flow dependencies**
   ![flows dependencies](https://raw.githubusercontent.com/yesadahmed/PowerAutomateManagerDocs/main/readme/dependencies.png)
   
-  
-  
+## Register client application
+
+[Lots go](https://www.google.com)
+
 ## Examples
    
    
@@ -72,6 +74,6 @@ Url=https://contoso:8080/Test;AppId=<GUID>;RedirectUri=app://<GUID>; LoginPrompt
    
    
    
-## Register client application
+
   
 
