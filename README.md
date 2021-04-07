@@ -64,7 +64,7 @@ Url=https://contoso:8080/Test;AppId=<GUID>;RedirectUri=app://<GUID>; LoginPrompt
   
 ## Register client application
 
-[Lots go](https://www.google.com)
+[Lots go](https://htmlpreview.github.io/?https://github.com/yesadahmed/PowerAutomateManagerDocs/blob/main/readme/registerapp.html)
 
 ## Examples
    
