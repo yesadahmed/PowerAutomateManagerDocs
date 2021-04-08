@@ -17,7 +17,7 @@ This tool works only with only **oauth** and **certificates** types xrmtoolbox's
 # [Video Help](#application-explanation)<br/>
 # [Go to Application (examples)](#application-explanation)<br/>
 # [Register client application](#register-client-application-1)<br/>
-# [Notes](#notes-1)<br/>
+# [Important](#notes-1)<br/>
 
 
 ## How to Connect in xrmtoolbox (connection Types)
@@ -68,14 +68,14 @@ Url=https://contoso:8080/Test;AppId=<GUID>;RedirectUri=app://<GUID>; LoginPrompt
 
 ## Notes
 ```
-You will need to configure your client application with following Flow Service Scopes (Delegated Permissions).
-The minum scopes you can use provide are:
+You will need to configure your flow client application with following minimum service scopes (Delegated Permissions).
 
-Manage flows,
+Manage flows <br/>
 Read flows
 
 Before you can see Power Automate service, your tenant needs to have at least one AAD user signed into the Flow portal (https://flow.microsoft.com).
-**Furthermore the application will handle My flows client application for diffrent tenants (once you specfied).**
+**Furthermore the application will automatically handle My flows client application for diffrent tenants (once you specfied).**<br/>
+That means whenever you chnage your connection from one tenant to other.
 ```
 <br/>
 Feel free to express for new features you want and any improvents you thought of.
