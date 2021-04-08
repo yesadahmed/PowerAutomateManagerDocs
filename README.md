@@ -11,7 +11,6 @@ A xrmtoolbox plugin for managing **cloud** powerautomates.<br/>
 * Share flows (crm users)
 * Delete flows.
 
-**Also note that My flow client application is specfic to tenant so diffrent powerautoamte tenants needs diffrent client applications**.<br/>
 This tool works only with only **oauth** and **certificates** types xrmtoolbox's connection.
 <br/>For how to connect and working examples please see below.<br/>
 # [Go to Conections](#how-to-connect-in-xrmtoolbox-connection-types)<br/>
@@ -75,8 +74,8 @@ The minum scopes you can use provide are:
 Manage flows,
 Read flows
 
-Before you can see Power Automate service, your tenant needs to have at least one AAD user signed into the Flow portal (https://flow.microsoft.com)
-   
+Before you can see Power Automate service, your tenant needs to have at least one AAD user signed into the Flow portal (https://flow.microsoft.com).
+**Furthermore the application will handle My flows client application for diffrent tenants (once you specfied).**
    
 <br/>
 Feel free to express for new features you want and any improvents you thought of.
