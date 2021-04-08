@@ -67,7 +67,7 @@ Url=https://contoso:8080/Test;AppId=<GUID>;RedirectUri=app://<GUID>; LoginPrompt
 [Lets go](https://htmlpreview.github.io/?https://github.com/yesadahmed/PowerAutomateManagerDocs/blob/main/readme/registerapp.html)
 
 ## Notes
-
+```
 You will need to configure your client application with following Flow Service Scopes (Delegated Permissions).
 The minum scopes you can use provide are:
 
@@ -76,7 +76,7 @@ Read flows
 
 Before you can see Power Automate service, your tenant needs to have at least one AAD user signed into the Flow portal (https://flow.microsoft.com).
 **Furthermore the application will handle My flows client application for diffrent tenants (once you specfied).**
-   
+```
 <br/>
 Feel free to express for new features you want and any improvents you thought of.
 I will try to address as soon as possible.<br/>
