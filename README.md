@@ -74,8 +74,9 @@ Manage flows
 Read flows
 
 Before you can see Power Automate service, your tenant needs to have at least one AAD user signed into the Flow portal (https://flow.microsoft.com).
-**Furthermore the application will automatically handle My flows client application for diffrent tenants (once you specfied).**<br/>
-That means whenever you chnage your connection from one tenant to other.
+
+**Furthermore the application will automatically load My flows client application whenver you load diffrent tenants (once you save them).**
+the application will automatically handles client application That means whenever you chnage your connection from one tenant to other.
 ```
 
 Feel free to express for new features you want and any improvents you thought of.
