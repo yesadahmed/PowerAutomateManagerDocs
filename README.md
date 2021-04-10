@@ -77,7 +77,7 @@ Before you can see Power Automate service, your tenant needs to have at least on
 **Furthermore the application will automatically handle My flows client application for diffrent tenants (once you specfied).**<br/>
 That means whenever you chnage your connection from one tenant to other.
 ```
-<br/>
+
 Feel free to express for new features you want and any improvents you thought of.
 I will try to address as soon as possible.<br/>
 You can riase new issues/fearures on (https://github.com/yesadahmed/PowerAutomateManagerDocs/issues)
