@@ -70,7 +70,7 @@ Url=https://contoso:8080/Test;AppId=<GUID>;RedirectUri=app://<GUID>; LoginPrompt
 ```
 You will need to configure your flow client application with following minimum service scopes (Delegated Permissions).
 
-Manage flows <br/>
+Manage flows
 Read flows
 
 Before you can see Power Automate service, your tenant needs to have at least one AAD user signed into the Flow portal (https://flow.microsoft.com).
