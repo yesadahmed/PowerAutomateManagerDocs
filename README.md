@@ -10,9 +10,10 @@ A xrmtoolbox plugin for managing **cloud** powerautomates.<br/>
 * Share flows (crm users).
 * Delete flows.
 
-This tool works only with only **oauth** and **certificates** types xrmtoolbox's connection.<br/>
 It uses Microsoft authentication library (MSAL) for token authentication, included in xrmtoolbox plugin.<br/>
 Furthermore the tool cache the flow client application information so you do not need register again whenver you switch to new tenant.<br/>
+This tool works only with only **oauth** and **certificates** types xrmtoolbox's connection.<br/>
+
 For how to connect and working examples please see below.<br/>
 # [Go to Conections](#how-to-connect-in-xrmtoolbox-connection-types)<br/>
 # [Video Help](#application-explanation)<br/>
