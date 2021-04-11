@@ -46,7 +46,7 @@ Some examples are as follows.
 Url=https://contoso:8080/Test;AppId=<GUID>;RedirectUri=app://<GUID>; LoginPrompt=Never
  
 ## Application Explanation
-  [![Fibonacci RMI Java EE](http://img.youtube.com/vi/nX_inqaAzOI/0.jpg)](https://github.com/yesadahmed/PowerAutomateManagerDocs/blob/main/readme/pavideo.mp4 "RMI Fibonacci Java")
+  [![Fibonacci RMI Java EE](https://www.youtube.com/watch?v=FkLFz2RzRhQ "Listen for now")
   
 **Solution flows**
  ![solution flows](https://raw.githubusercontent.com/yesadahmed/PowerAutomateManagerDocs/main/readme/solutionflows.png)
