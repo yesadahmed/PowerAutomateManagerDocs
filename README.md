@@ -12,7 +12,8 @@ A xrmtoolbox plugin for managing **cloud** powerautomates.<br/>
 * Delete flows.
 
 This tool works only with only **oauth** and **certificates** types xrmtoolbox's connection.<br/>
-Also it uses Microsft soft authentication library (MSAL) for token authentication, inclucded in xrmtoolbox plugin.
+Also it uses Microsoft authentication library (MSAL) for token authentication, included in xrmtoolbox plugin.
+
 <br/>For how to connect and working examples please see below.<br/>
 # [Go to Conections](#how-to-connect-in-xrmtoolbox-connection-types)<br/>
 # [Video Help](#application-explanation)<br/>
