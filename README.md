@@ -47,7 +47,7 @@ Url=https://contoso:8080/Test;AppId=<GUID>;RedirectUri=app://<GUID>; LoginPrompt
  
 ## Application Explanation
  
- ![](https://github.com/yesadahmed/PowerAutomateManagerDocs/blob/main/readme/pavideo.mp4)
+ ![Video](https://github.com/yesadahmed/PowerAutomateManagerDocs/blob/main/readme/pavideo.mp4)
  
 **Solution flows**
  ![solution flows](https://raw.githubusercontent.com/yesadahmed/PowerAutomateManagerDocs/main/readme/solutionflows.png)
