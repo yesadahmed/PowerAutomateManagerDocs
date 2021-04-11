@@ -5,7 +5,7 @@ A xrmtoolbox plugin for managing **cloud** powerautomates.<br/>
 - Listing **My Flows**. (https://flow.microsoft.com) using Azure client application. [external to Dataverse]
   - Execution histories.
   - Flow dependencies. (total conectors, tables, triggers and actions)
-  - Export Dependencies.
+  - Export Dependencies as josn file.
   - Turning On/Off.
   - Sharing flows (with crm users).
   - Deleting flows.
