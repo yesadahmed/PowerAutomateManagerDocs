@@ -1,14 +1,14 @@
 # PowerAutomateManager (cloud)
 A xrmtoolbox plugin for managing **cloud** powerautomates.<br/>
 
-- Lists **crm solution** flows. (internal to Dataverse)
-- Lists **My Flows**. (https://flow.microsoft.com) using Azure client application. [external to Dataverse]
-  - Lists run histories.
-  - Lists flow dependencies. (total conectors, tables, triggers and actions)
+- Listing **crm solution** flows. (internal to Dataverse)
+- Listing **My Flows**. (https://flow.microsoft.com) using Azure client application. [external to Dataverse]
+  - Execution histories.
+  - Flow dependencies. (total conectors, tables, triggers and actions)
   - Export Dependencies.
-  - Turn On/Off.
-  - Share flows (crm users).
-  - Delete flows.
+  - Turning On/Off.
+  - Sharing flows (with crm users).
+  - Deleting flows.
 
 It uses Microsoft authentication library (MSAL) for token authentication, included in xrmtoolbox plugin.<br/>
 Furthermore the tool cache token and also saves the flow client application information into a txt file so you do not need register again and again
