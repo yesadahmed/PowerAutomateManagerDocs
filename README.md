@@ -1,4 +1,4 @@
-# PowerAutomateManager
+# PowerAutomateManager (cloud)
 A xrmtoolbox plugin for managing **cloud** powerautomates.<br/>
 
 - Lists **crm solution** flows. (internal to Dataverse)
