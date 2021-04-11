@@ -1,10 +1,10 @@
 # PowerAutomateManager
 A xrmtoolbox plugin for managing **cloud** powerautomates. For:<br/>
 
-* Listing **crm solution**. flows (internal to Dataverse)
-* Listing **My Flows**. (https://flow.microsoft.com) [external to Dataverse]
-* Listing run histories.
-* Listing flow dependencies. (total conectors, tables, triggers and actions)
+* Lists **crm solution**. flows (internal to Dataverse)
+* Lists **My Flows**. (https://flow.microsoft.com) [external to Dataverse]
+* Lists run histories.
+* Lists flow dependencies. (total conectors, tables, triggers and actions)
 * Export Dependencies.
 * Turn On/Off.
 * Share flows (crm users).
