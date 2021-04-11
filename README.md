@@ -11,9 +11,10 @@ A xrmtoolbox plugin for managing **cloud** powerautomates.<br/>
   - Deleting flows.
 
 The application also:
- - Cache the Token
+ - Uses latest Microsoft authentication library (MSAL) for token authentication
+  - Generate token with scopes
+  - Cache the Token
  - Register and saves the azure client application for flow (for each new tenant).
- - Uses latest Microsoft authentication library (MSAL) for token authentication.
  - Works only with only **oauth** and **certificates** types xrmtoolbox's connection.<br/>
 
 For how to connect and working examples please see below.<br/>
