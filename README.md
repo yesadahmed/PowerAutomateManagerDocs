@@ -46,7 +46,7 @@ Some examples are as follows.
 Url=https://contoso:8080/Test;AppId=<GUID>;RedirectUri=app://<GUID>; LoginPrompt=Never
  
 ## Application Explanation
-[![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](https://www.youtube.com/watch?v=RsMAXhc0QTs)
+[![SC2 Video](https://raw.githubusercontent.com/yesadahmed/PowerAutomateManagerDocs/main/readme/solutionflows.png)](https://www.youtube.com/watch?v=Y1SMLUVG-hQ)
 
   
 **Solution flows**
