@@ -27,7 +27,7 @@ For how to connect and working examples please see below.<br/>
 
 ## How to Connect in xrmtoolbox (connection Types)
 Once you have the xrmtoolbox you need to install this plugin form Tool Library as shown below.<br/>
-![xrmtoolbox connections](https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/library.PNG)
+![xrmtoolbox connections](https://github.com/yesadahmed/xrmtoolboxdocumentation/blob/main/pics/Plugin.PNG)
 
 Once the installion is done, you will see this plugin as follows:
 ![xrmtoolbox connections](https://raw.githubusercontent.com/yesadahmed/PowerAutomateManagerDocs/main/readme/pane.PNG)
